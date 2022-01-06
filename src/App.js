@@ -7,8 +7,7 @@ function App() {
   return (
     <div className='App'>
         <img src= { image } width= '200px' alt='shop'/>
-        <h1></h1>
-        <h1>Grocery List</h1>
+         <h1>Grocery List</h1>
         <GroceryList/>
           <img src= { imageMan } width= '200px' alt='man'/>
     </div>
